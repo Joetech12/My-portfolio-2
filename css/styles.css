@@ -276,8 +276,6 @@ a {
 
 /* Cards */
 
-.card {
-}
 
 .card__image {
   width: 100%;
@@ -736,8 +734,6 @@ a {
   grid-gap: 50px;
 }
 
-.services__icon {
-}
 
 .services__heading {
   text-align: center;
